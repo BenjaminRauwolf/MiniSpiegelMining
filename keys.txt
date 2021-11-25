@@ -1,0 +1,91 @@
+188	Fahrberichte
+154	Mobilität
+95	Autotests
+84	Tests
+38	Elektroautos
+25	SUV
+20	VW-Modelle
+14	Autotests im Video
+11	Alternative Antriebe
+10	Kleinwagen
+9	Umweltfreundliche Fahrzeuge
+9	Renault-Modelle
+9	Motorräder
+9	BMW-Modelle
+8	Mercedes-Benz-Modelle
+7	Volkswagen
+7	Kompaktwagen
+7	Audi-Modelle
+6	Opel-Modelle
+6	BMW
+5	Van/Kleinbus
+5	Smart
+5	Kia
+5	Jaguar-Modelle
+5	Ford-Modelle
+4	Volvo-Modelle
+4	VW Bus
+4	Sportwagen
+4	Schräglage
+4	Porsche
+4	Mobilität der Zukunft
+4	Limousine
+3	Renault
+3	Porsche-Modelle
+3	Peugeot-Modelle
+3	Nissan-Modelle
+3	Mini-Modelle
+3	Harley-Davidson
+3	Citroën-Modelle
+3	Audi
+2	VW Golf
+2	Tests und Empfehlungen
+2	Tesla
+2	Skoda-Modelle
+2	Seat-Modelle
+2	Ratgeber Rad
+2	Opel
+2	Motorroller
+2	Kleinstwagen
+2	IAA 2015
+2	Hyundai
+2	Fahrtenbuch
+2	Fahrräder
+1	Wolfgang Porsche
+1	Volvo
+1	Tuning
+1	Skoda
+1	Seat
+1	Peugeot Citroën
+1	Nutzfahrzeuge
+1	Mobilität: Videos
+1	Mobilität von morgen
+1	Mercedes A-Klasse
+1	Hyundai-Modelle
+1	Hybridfahrzeuge
+1	Honda-Modelle
+1	Honda
+1	Google
+1	Geländewagen
+1	Frankreich
+1	Ford
+1	Fiat-Modelle
+1	Fiat
+1	Ferdinand Porsche
+1	Ferdinand Piëch
+1	Ferdinand Alexander Porsche
+1	Familienreisen
+1	Elon Musk
+1	E-Bikes
+1	Daimler
+1	Continental
+1	Chevrolet
+1	Camping
+1	Cabrio/Roadster
+1	Bosch
+1	BMW Motorräder
+1	Autonomes Fahren
+1	Auto
+1	Audi A3
+1	Asien
+1	Abgasaffäre bei Volkswagen
