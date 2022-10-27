@@ -1,0 +1,4 @@
+Var1,Var2,Var3
+ADAC,Mobilität,Tests
+Mobilität,Tests,ADAC
+Tests,ADAC,Mobilität
