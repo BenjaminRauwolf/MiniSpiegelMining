@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1561.2358"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-745.664795 -586.000000 1561.235840 1234.000000" height="1234.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -37.499077,60.389656 L -123.865860,246.255188"
+              class="id_Themen id_Stadtwald" stroke-opacity="1.0"
+              stroke="#49adaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -139.274200,343.837555 L -119.315544,486.536072"
+              class="id_Stadtwald id_W�lder_und_Forsten1" stroke-opacity="1.0"
+              stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -169.633026,338.488495 L -282.690125,551.590759"
+              class="id_Stadtwald id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz1"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -188.197739,321.452515 L -358.384827,431.403351"
+              class="id_Stadtwald id_Fachbereich_Umwelt_und_Stadtgr�n,_Region_Hannover:_Fachbereich_Planung_und_Raumordnung1"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.789211,-34.547913 L -42.254616,-186.330795"
+              class="id_Themen id_Orientierung_im_Wald" stroke-opacity="1.0"
+              stroke="#49adaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -17.831959,-277.999847 L 67.580872,-385.160706"
+              class="id_Orientierung_im_Wald id_Autor_unbekannt2"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -47.119595,-288.865021 L -39.842270,-482.604675"
+              class="id_Orientierung_im_Wald id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz2"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -77.004311,-280.319519 L -156.551041,-397.956543"
+              class="id_Orientierung_im_Wald id_W�lder_und_Forsten2"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -64.051666,30.280310 L -252.032471,90.415024"
+              class="id_Themen id_Historie" stroke-opacity="1.0"
+              stroke="#49adaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -349.686035,89.990784 L -426.112061,63.141323"
+              class="id_Historie id_Fachbereich_Umwelt_und_Stadtgr�n3"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -323.705750,151.849731 L -363.526215,236.938904"
+              class="id_Historie id_Autor_unbekannt3" stroke-opacity="1.0"
+              stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -349.604614,123.366096 L -468.703644,165.860977"
+              class="id_Historie id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz3"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.002676,39.818600 L 185.875397,130.436752"
+              class="id_Themen id_Eilenriedebeirat" stroke-opacity="1.0"
+              stroke="#49adaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 268.880005,190.362396 L 366.873779,279.607391"
+              class="id_Eilenriedebeirat id_Gesch�ftsstelle_Eilenriedebeirat_4"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 280.707336,167.609833 L 489.309540,214.268829"
+              class="id_Eilenriedebeirat id_Fachbereich_Umwelt_und_Stadtgr�n,_Gottfried_Wilhelm_Leibniz_Univesit�t_Hannover:_Institut_f�r_Landschaftsarchitektur_(ILA)4"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 280.367432,144.360107 L 470.820862,95.873886"
+              class="id_Eilenriedebeirat id_Autor_unbekannt8"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2.811707,61.195610 L 80.282356,247.011932"
+              class="id_Themen id_Waldstation" stroke-opacity="1.0"
+              stroke="#49adaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 103.288551,345.862366 L 108.271576,441.156006"
+              class="id_Waldstation id_Autor_unbekannt4" stroke-opacity="1.0"
+              stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 142.296478,323.640961 L 257.547089,400.376160"
+              class="id_Waldstation id_Waldstation_Eilenriede4"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.480522,-12.003544 L -192.391113,-98.141083"
+              class="id_Themen id_Sport_und_Bewegung" stroke-opacity="1.0"
+              stroke="#49adaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -259.518005,-171.438538 L -318.445099,-288.039307"
+              class="id_Sport_und_Bewegung id_Autor_unbekannt5"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -282.322876,-147.854492 L -427.993042,-215.430069"
+              class="id_Sport_und_Bewegung id_Fachbereich_Umwelt_und_Stadtgr�n5"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -286.808228,-122.848747 L -407.418640,-113.254677"
+              class="id_Sport_und_Bewegung id_Umweltkommunikation5"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 32.415306,4.358156 L 213.760895,-35.322563"
+              class="id_Themen id_Forstwirtschaft" stroke-opacity="1.0"
+              stroke="#49adaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 300.188873,-82.695633 L 475.270355,-264.805389"
+              class="id_Forstwirtschaft id_Fachbereich_Umwelt_und_Stadtgr�n6"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 310.653870,-68.200851 L 527.610596,-171.823807"
+              class="id_Forstwirtschaft id_67.71_-_Betriebliche_Aufgaben6"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 285.281250,-92.587669 L 385.974915,-326.844330"
+              class="id_Forstwirtschaft id_Autor_unbekannt6"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 315.293549,-51.568657 L 503.171204,-70.134758"
+              class="id_Forstwirtschaft id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz6"
+              stroke-opacity="1.0" stroke="#50b25d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.006386,-24.623766 L 113.311554,-154.058578"
+              class="id_Themen id_Sonstige" stroke-opacity="1.0"
+              stroke="#49adaf"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 166.631546,-241.457565 L 241.544464,-402.781891"
+              class="id_Sonstige id_Umweltkommunikation7" stroke-opacity="1.0"
+              stroke="#50b25d"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#49adaf" fill-opacity="1.0"
+                  class="id_Themen id_Stadtwald"
+                  points="-125.130058,248.975815 -125.226173,245.623093 -122.505547,246.887283"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Stadtwald id_W�lder_und_Forsten1"
+                  points="-118.899986,489.507141 -120.801086,486.743835 -117.830002,486.328308"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Stadtwald id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz1"
+                  points="-284.096100,554.240906 -284.015198,550.887756 -281.365051,552.293762"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Stadtwald id_Fachbereich_Umwelt_und_Stadtgr�n,_Region_Hannover:_Fachbereich_Planung_und_Raumordnung1"
+                  points="-360.904694,433.031311 -359.198822,430.143433 -357.570831,432.663269"
+                  stroke="none"/>
+        <polyline fill="#49adaf" fill-opacity="1.0"
+                  class="id_Themen id_Orientierung_im_Wald"
+                  points="-42.636227,-189.306427 -40.766800,-186.521606 -43.742432,-186.139984"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Orientierung_im_Wald id_Autor_unbekannt2"
+                  points="69.450729,-387.506683 68.753860,-384.225769 66.407883,-386.095642"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Orientierung_im_Wald id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz2"
+                  points="-39.729664,-485.602570 -38.343327,-482.548370 -41.341213,-482.660980"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Orientierung_im_Wald id_W�lder_und_Forsten2"
+                  points="-158.231522,-400.441681 -155.308456,-398.796783 -157.793625,-397.116302"
+                  stroke="none"/>
+        <polyline fill="#49adaf" fill-opacity="1.0"
+                  class="id_Themen id_Historie"
+                  points="-254.889832,91.329086 -252.489502,88.986343 -251.575439,91.843704"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Historie id_Fachbereich_Umwelt_und_Stadtgr�n3"
+                  points="-428.942474,62.146961 -425.614868,61.726116 -426.609253,64.556534"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Historie id_Autor_unbekannt3"
+                  points="-364.797791,239.656067 -364.884796,236.303101 -362.167633,237.574707"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Historie id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz3"
+                  points="-471.529175,166.869141 -469.207733,164.448212 -468.199554,167.273743"
+                  stroke="none"/>
+        <polyline fill="#49adaf" fill-opacity="1.0"
+                  class="id_Themen id_Eilenriedebeirat"
+                  points="188.481308,131.923111 185.132217,131.739700 186.618576,129.133804"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Eilenriedebeirat id_Gesch�ftsstelle_Eilenriedebeirat_4"
+                  points="369.091797,281.627380 365.863770,280.716400 367.883789,278.498383"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Eilenriedebeirat id_Fachbereich_Umwelt_und_Stadtgr�n,_Gottfried_Wilhelm_Leibniz_Univesit�t_Hannover:_Institut_f�r_Landschaftsarchitektur_(ILA)4"
+                  points="492.237183,214.923676 488.982117,215.732666 489.636963,212.804993"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Eilenriedebeirat id_Autor_unbekannt8"
+                  points="473.728119,95.133743 471.190918,97.327522 470.450806,94.420250"
+                  stroke="none"/>
+        <polyline fill="#49adaf" fill-opacity="1.0"
+                  class="id_Themen id_Waldstation"
+                  points="81.436798,249.780914 78.897865,247.589157 81.666847,246.434708"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Waldstation id_Autor_unbekannt4"
+                  points="108.428230,444.151886 106.773621,441.234344 109.769531,441.077667"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Waldstation id_Waldstation_Eilenriede4"
+                  points="260.044220,402.038788 256.715790,401.624725 258.378387,399.127594"
+                  stroke="none"/>
+        <polyline fill="#49adaf" fill-opacity="1.0"
+                  class="id_Themen id_Sport_und_Bewegung"
+                  points="-194.914200,-99.764053 -191.579636,-99.402626 -193.202591,-96.879539"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Sport_und_Bewegung id_Autor_unbekannt5"
+                  points="-319.798248,-290.716827 -317.106354,-288.715881 -319.783844,-287.362732"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Sport_und_Bewegung id_Fachbereich_Umwelt_und_Stadtgr�n5"
+                  points="-430.714478,-216.692520 -427.361816,-216.790787 -428.624268,-214.069351"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Sport_und_Bewegung id_Umweltkommunikation5"
+                  points="-410.409180,-113.016792 -407.537598,-114.749954 -407.299683,-111.759399"
+                  stroke="none"/>
+        <polyline fill="#49adaf" fill-opacity="1.0"
+                  class="id_Themen id_Forstwirtschaft"
+                  points="216.691559,-35.963829 214.081528,-33.857231 213.440262,-36.787895"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Forstwirtschaft id_Fachbereich_Umwelt_und_Stadtgr�n6"
+                  points="477.349548,-266.968018 476.351685,-263.765808 474.189026,-265.844971"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Forstwirtschaft id_67.71_-_Betriebliche_Aufgaben6"
+                  points="530.317627,-173.116760 528.257080,-170.470276 526.964111,-173.177338"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Forstwirtschaft id_Autor_unbekannt6"
+                  points="387.159637,-329.600494 387.352997,-326.251984 384.596832,-327.436676"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Forstwirtschaft id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz6"
+                  points="506.156677,-70.429779 503.318726,-68.642029 503.023682,-71.627487"
+                  stroke="none"/>
+        <polyline fill="#49adaf" fill-opacity="1.0"
+                  class="id_Themen id_Sonstige"
+                  points="115.137680,-156.438751 114.501648,-153.145508 112.121460,-154.971649"
+                  stroke="none"/>
+        <polyline fill="#50b25d" fill-opacity="1.0"
+                  class="id_Sonstige id_Umweltkommunikation7"
+                  points="242.807968,-405.502838 242.904938,-402.150146 240.183990,-403.413635"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#549ada" r="49.5" cx="-16.429049"
+                class="id_Themen" cy="15.045923" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3ec084" r="49.5" cx="-146.20009"
+                class="id_Stadtwald" cy="294.31955" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-111.974106"
+                class="id_W�lder_und_Forsten1" cy="539.02515" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-307.52905"
+                class="id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz1"
+                cy="598.40985" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-402.90234"
+                class="id_Fachbereich_Umwelt_und_Stadtgr�n,_Region_Hannover:_Fachbereich_Planung_und_Raumordnung1"
+                cy="460.16428" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3ec084" r="49.5" cx="-48.99639"
+                class="id_Orientierung_im_Wald" cy="-238.90025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="100.61516"
+                class="id_Autor_unbekannt2" cy="-426.6063" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-37.852867"
+                class="id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz2"
+                cy="-535.5673" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-186.23944"
+                class="id_W�lder_und_Forsten2" cy="-441.86096" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3ec084" r="49.5" cx="-302.51245"
+                class="id_Historie" cy="106.56348" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-476.11606"
+                class="id_Fachbereich_Umwelt_und_Stadtgr�n3" cy="45.574272"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-385.9911"
+                class="id_Autor_unbekannt3" cy="284.94232" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-518.62134"
+                class="id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz3"
+                cy="183.67175" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3ec084" r="49.5" cx="231.91302"
+                class="id_Eilenriedebeirat" cy="156.69579" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="406.0588"
+                class="id_Gesch�ftsstelle_Eilenriedebeirat_4" cy="315.294"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="541.0315"
+                class="id_Fachbereich_Umwelt_und_Stadtgr�n,_Gottfried_Wilhelm_Leibniz_Univesit�t_Hannover:_Institut_f�r_Landschaftsarchitektur_(ILA)4"
+                cy="225.83772" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="522.18256"
+                class="id_Autor_unbekannt8" cy="82.798065" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3ec084" r="49.5" cx="100.67755"
+                class="id_Waldstation" cy="295.9306" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="111.03923"
+                class="id_Autor_unbekannt4" cy="494.08368" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="301.66315"
+                class="id_Waldstation_Eilenriede4" cy="429.74915"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3ec084" r="49.5" cx="-236.96567"
+                class="id_Sport_und_Bewegung" cy="-126.81352" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-342.3506"
+                class="id_Autor_unbekannt5" cy="-335.34183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-476.07172"
+                class="id_Fachbereich_Umwelt_und_Stadtgr�n5" cy="-237.73349"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="-460.25174"
+                class="id_Umweltkommunikation5" cy="-109.05202" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3ec084" r="49.5" cx="265.53592"
+                class="id_Forstwirtschaft" cy="-46.6516" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="512.0025"
+                class="id_Fachbereich_Umwelt_und_Stadtgr�n6" cy="-303.01205"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="575.4356"
+                class="id_67.71_-_Betriebliche_Aufgaben6" cy="-194.66602"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="406.90497"
+                class="id_Autor_unbekannt6" cy="-375.53656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="555.9143"
+                class="id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz6"
+                cy="-75.34684" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3ec084" r="49.5" cx="145.57312"
+                class="id_Sonstige" cy="-196.10844" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#63a437" r="49.5" cx="263.8664"
+                class="id_Umweltkommunikation7" cy="-450.85196" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="18" x="-16.429049" y="18.319849" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Themen">
+            Themen
+        </text>
+        <text font-size="18" x="-146.20009" y="297.65207" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stadtwald">
+            Stadtwald
+        </text>
+        <text font-size="18" x="-111.974106" y="542.3196" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_W�lder_und_Forsten1">
+            Wälder und Forsten
+        </text>
+        <text font-size="18" x="-307.52905" y="602.3239" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz1">
+            Bereich Forsten, Landschaftsräume und Naturschutz
+        </text>
+        <text font-size="18" x="-402.90234" y="464.3889" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Fachbereich_Umwelt_und_Stadtgr�n,_Region_Hannover:_Fachbereich_Planung_und_Raumordnung1">
+            Fachbereich Umwelt und Stadtgrün/Fachbereich Planung und
+            Raumordnung
+        </text>
+        <text font-size="18" x="-48.99639" y="-234.67418" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Orientierung_im_Wald">
+            Orientierung im Wald
+        </text>
+        <text font-size="18" x="100.61516" y="-423.33237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Autor_unbekannt2">
+            Autor unbekannt
+        </text>
+        <text font-size="18" x="-37.852867" y="-531.65326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz2">
+            Bereich Forsten, Landschaftsräume und Naturschutz
+        </text>
+        <text font-size="18" x="-186.23944" y="-438.56653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_W�lder_und_Forsten2">
+            Wälder und Forsten
+        </text>
+        <text font-size="18" x="-302.51245" y="109.8374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Historie">
+            Historie
+        </text>
+        <text font-size="18" x="-476.11606" y="49.79888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fachbereich_Umwelt_und_Stadtgr�n3">
+            Fachbereich Umwelt und Stadtgrün
+        </text>
+        <text font-size="18" x="-385.9911" y="288.21625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Autor_unbekannt3">
+            Autor unbekannt
+        </text>
+        <text font-size="18" x="-518.62134" y="187.58582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz3">
+            Bereich Forsten, Landschaftsräume und Naturschutz
+        </text>
+        <text font-size="18" x="231.91302" y="159.96971" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Eilenriedebeirat">
+            Eilenriedebeirat
+        </text>
+        <text font-size="18" x="406.0588" y="318.62653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gesch�ftsstelle_Eilenriedebeirat_4">
+            Geschäftsstelle Eilenriedebeirat
+        </text>
+        <text font-size="18" x="541.0315" y="230.06233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Fachbereich_Umwelt_und_Stadtgr�n,_Gottfried_Wilhelm_Leibniz_Univesit�t_Hannover:_Institut_f�r_Landschaftsarchitektur_(ILA)4">
+            Fachbereich Umwelt und Stadtgrün/Leibniz Univesität Hannover
+        </text>
+        <text font-size="18" x="522.18256" y="86.07199" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Autor_unbekannt8">
+            Autor unbekannt
+        </text>
+        <text font-size="18" x="100.67755" y="299.20453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Waldstation">
+            Waldstation
+        </text>
+        <text font-size="18" x="111.03923" y="497.3576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Autor_unbekannt4">
+            Autor unbekannt
+        </text>
+        <text font-size="18" x="301.66315" y="433.02307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Waldstation_Eilenriede4">
+            Waldstation Eilenriede
+        </text>
+        <text font-size="18" x="-236.96567" y="-122.58891" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sport_und_Bewegung">
+            Sport und Bewegung
+        </text>
+        <text font-size="18" x="-342.3506" y="-332.0679" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Autor_unbekannt5">
+            Autor unbekannt
+        </text>
+        <text font-size="18" x="-476.07172" y="-233.50888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fachbereich_Umwelt_und_Stadtgr�n5">
+            Fachbereich Umwelt und Stadtgrün
+        </text>
+        <text font-size="18" x="-460.25174" y="-105.77516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Umweltkommunikation5">
+            Umweltkommunikation
+        </text>
+        <text font-size="18" x="265.53592" y="-43.32201" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Forstwirtschaft">
+            Forstwirtschaft
+        </text>
+        <text font-size="18" x="512.0025" y="-298.78745" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fachbereich_Umwelt_und_Stadtgr�n6">
+            Fachbereich Umwelt und Stadtgrün
+        </text>
+        <text font-size="18" x="575.4356" y="-190.4414" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_67.71_-_Betriebliche_Aufgaben6">
+            67.71 - Betriebliche Aufgaben
+        </text>
+        <text font-size="18" x="406.90497" y="-372.26263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Autor_unbekannt6">
+            Autor unbekannt
+        </text>
+        <text font-size="18" x="555.9143" y="-71.43278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Bereich_Forsten,_Landschaftsr�ume_und_Naturschutz6">
+            Bereich Forsten, Landschaftsräume und Naturschutz
+        </text>
+        <text font-size="18" x="145.57312" y="-191.88383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sonstige">
+            Sonstige
+        </text>
+        <text font-size="18" x="263.8664" y="-447.5751" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Umweltkommunikation7">
+            Umweltkommunikation
+        </text>
+    </g>
+</svg>
