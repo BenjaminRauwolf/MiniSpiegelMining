@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1621.5498"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-806.254700 -787.000000 1621.549805 1750.000000" height="1750.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -197.956558,205.003204 L -279.898438,188.423462"
+              class="id_Naherholung id_Gärten-genießen" stroke-opacity="1.0"
+              stroke="#ff334c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -114.606339,178.579865 L -59.235214,119.990860"
+              class="id_Naherholung id_Infos,-Projekte,-Termine"
+              stroke-opacity="1.0" stroke="#ff334c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -173.659729,171.451660 L -410.654236,-245.444275"
+              class="id_Naherholung id_Natur-entdecken" stroke-opacity="1.0"
+              stroke="#ff334c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -448.815765,-242.973358 L -475.349640,-135.350510"
+              class="id_Natur-entdecken id_Deister" stroke-opacity="1.0"
+              stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -394.148712,-265.503052 L -310.146332,-214.319107"
+              class="id_Natur-entdecken id_Die-Südliche-Leineaue"
+              stroke-opacity="1.0" stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -481.725159,-269.475647 L -593.844849,-214.402863"
+              class="id_Natur-entdecken id_Landschaftsräume"
+              stroke-opacity="1.0" stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -482.323853,-312.300598 L -587.612244,-360.412598"
+              class="id_Natur-entdecken id_Moore" stroke-opacity="1.0"
+              stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -444.400024,-340.945892 L -460.370544,-445.453827"
+              class="id_Natur-entdecken id_Seen" stroke-opacity="1.0"
+              stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -398.385956,-323.468964 L -76.562820,-590.805664"
+              class="id_Natur-entdecken id_Wälder" stroke-opacity="1.0"
+              stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.790192,-636.485229 L 147.316620,-669.195190"
+              class="id_Wälder id_Die-Eilenriede" stroke-opacity="1.0"
+              stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -54.547653,-578.322083 L -85.627869,-501.506012"
+              class="id_Wälder id_Mecklenheider-Forst" stroke-opacity="1.0"
+              stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -76.735580,-653.373962 L -152.719681,-706.642822"
+              class="id_Wälder id_Seelhorster-Wald" stroke-opacity="1.0"
+              stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.788204,-612.850464 L 422.491608,-513.158264"
+              class="id_Wälder id_Waldstation-Eilenriede" stroke-opacity="1.0"
+              stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -153.723480,264.690613 L -190.570740,648.858459"
+              class="id_Naherholung id_Natur-erleben" stroke-opacity="1.0"
+              stroke="#ff334c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -245.605530,700.021484 L -487.033203,692.316650"
+              class="id_Natur-erleben id_Bewegen" stroke-opacity="1.0"
+              stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -579.981018,660.592529 L -666.779602,595.379639"
+              class="id_Bewegen id_Fitness%C2%ADparcours-in-Hannover"
+              stroke-opacity="1.0" stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -684.106934,520.269348 L -643.764709,450.565704"
+              class="id_Fitness%C2%ADparcours-in-Hannover id_Fitnesswiese-am-Schmachteberg-in-der-Eilenriede"
+              stroke-opacity="1.0" stroke="#20c68a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -533.013306,641.117554 L -522.047852,563.484253"
+              class="id_Bewegen id_Trimm-Dich-Pfad-in-der-Eilenriede"
+              stroke-opacity="1.0" stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -196.241211,751.612610 L -197.567642,860.287720"
+              class="id_Natur-erleben id_Der-Deister-Wanderpass"
+              stroke-opacity="1.0" stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -153.776993,674.262268 L -62.494278,614.603699"
+              class="id_Natur-erleben id_Faltkarte-&quot;Wandern-im-Deister&quot;"
+              stroke-opacity="1.0" stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -217.053101,656.437866 L -250.776718,585.316040"
+              class="id_Natur-erleben id_Mit-Bus-und-Bahn-auf-den-Deisterkamm"
+              stroke-opacity="1.0" stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -151.920425,725.893616 L -6.021816,806.927307"
+              class="id_Natur-erleben id_Radfahren" stroke-opacity="1.0"
+              stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 86.942810,814.619385 L 205.147568,768.885559"
+              class="id_Radfahren id_FAHRRADREGION-Hannover"
+              stroke-opacity="1.0" stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -98.959518,213.926285 L 211.677811,207.757309"
+              class="id_Naherholung id_Natur-verstehen" stroke-opacity="1.0"
+              stroke="#ff334c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 286.717072,251.580490 L 318.991699,317.265717"
+              class="id_Natur-verstehen id_Erlebnispfade" stroke-opacity="1.0"
+              stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 306.765839,179.728760 L 519.002869,43.729721"
+              class="id_Natur-verstehen id_Naturlernorte" stroke-opacity="1.0"
+              stroke="#e57f19"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 567.242065,65.004074 L 574.014160,158.429367"
+              class="id_Naturlernorte id_Kinderwald-Hannover"
+              stroke-opacity="1.0" stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 608.379211,37.434319 L 687.560181,76.889336"
+              class="id_Naturlernorte id_Schulbiologiezentrum-Hannover"
+              stroke-opacity="1.0" stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 555.065735,-34.126629 L 483.064209,-448.410248"
+              class="id_Naturlernorte id_Waldstation-Eilenriede"
+              stroke-opacity="1.0" stroke="#86ac24"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 523.218567,-491.884094 L 659.328796,-467.710327"
+              class="id_Waldstation-Eilenriede id_Aktuelles-Veranstaltungen"
+              stroke-opacity="1.0" stroke="#20c68a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 425.374054,-488.940338 L 301.363403,-459.127777"
+              class="id_Waldstation-Eilenriede id_Anfahrt-und-Öffnungszeiten"
+              stroke-opacity="1.0" stroke="#20c68a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 442.616577,-461.694580 L 336.665100,-330.209717"
+              class="id_Waldstation-Eilenriede id_Audioguide"
+              stroke-opacity="1.0" stroke="#20c68a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 464.122467,-549.644348 L 439.515350,-671.892639"
+              class="id_Waldstation-Eilenriede id_Das-Wald-Hochhaus"
+              stroke-opacity="1.0" stroke="#20c68a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 432.221954,-528.114136 L 243.089172,-652.581360"
+              class="id_Waldstation-Eilenriede id_Die-Eilenriede"
+              stroke-opacity="1.0" stroke="#41c049"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 510.921844,-534.331543 L 599.946411,-615.573303"
+              class="id_Waldstation-Eilenriede id_Freiwilliges-Ökologisches-Jahr"
+              stroke-opacity="1.0" stroke="#20c68a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 505.649078,-461.928162 L 600.990356,-345.388977"
+              class="id_Waldstation-Eilenriede id_Führungen"
+              stroke-opacity="1.0" stroke="#20c68a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 472.312469,-450.655609 L 467.723999,-313.885620"
+              class="id_Waldstation-Eilenriede id_Über-uns" stroke-opacity="1.0"
+              stroke="#20c68a"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ff334c" fill-opacity="1.0"
+                  class="id_Naherholung id_Gärten-genießen"
+                  points="-282.838867,187.828522 -279.600952,186.953262 -280.195923,189.893661"
+                  stroke="none"/>
+        <polyline fill="#ff334c" fill-opacity="1.0"
+                  class="id_Naherholung id_Infos,-Projekte,-Termine"
+                  points="-57.174614,117.810516 -58.145039,121.021156 -60.325390,118.960564"
+                  stroke="none"/>
+        <polyline fill="#ff334c" fill-opacity="1.0"
+                  class="id_Naherholung id_Natur-entdecken"
+                  points="-412.136841,-248.052307 -409.350220,-246.185577 -411.958252,-244.702972"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-entdecken id_Deister"
+                  points="-476.067749,-132.437744 -476.806030,-135.709579 -473.893250,-134.991440"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-entdecken id_Die-Südliche-Leineaue"
+                  points="-307.584442,-212.758102 -310.926819,-213.038162 -309.365845,-215.600052"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-entdecken id_Landschaftsräume"
+                  points="-596.537537,-213.080215 -594.506165,-215.749207 -593.183533,-213.056519"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-entdecken id_Moore"
+                  points="-590.340820,-361.659454 -586.988831,-361.776917 -588.235657,-359.048279"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-entdecken id_Seen"
+                  points="-460.823730,-448.419403 -458.887756,-445.680420 -461.853333,-445.227234"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-entdecken id_Wälder"
+                  points="-74.255165,-592.722656 -75.604340,-589.651855 -77.521301,-591.959473"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Wälder id_Die-Eilenriede"
+                  points="150.231689,-669.903992 147.671021,-667.737671 146.962219,-670.652710"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Wälder id_Mecklenheider-Forst"
+                  points="-86.753067,-498.725006 -87.018364,-502.068604 -84.237373,-500.943420"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Wälder id_Seelhorster-Wald"
+                  points="-155.176163,-708.364929 -151.858627,-707.871033 -153.580734,-705.414612"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Wälder id_Waldstation-Eilenriede"
+                  points="425.406555,-512.448975 422.136963,-511.700806 422.846252,-514.615723"
+                  stroke="none"/>
+        <polyline fill="#ff334c" fill-opacity="1.0"
+                  class="id_Naherholung id_Natur-erleben"
+                  points="-190.857162,651.844727 -192.063889,648.715271 -189.077591,649.001648"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-erleben id_Bewegen"
+                  points="-490.031677,692.220947 -486.985352,690.817444 -487.081055,693.815857"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Bewegen id_Fitness%C2%ADparcours-in-Hannover"
+                  points="-669.178101,593.577637 -665.878601,594.180420 -667.680603,596.578857"
+                  stroke="none"/>
+        <polyline fill="#20c68a" fill-opacity="1.0"
+                  class="id_Fitness%C2%ADparcours-in-Hannover id_Fitnesswiese-am-Schmachteberg-in-der-Eilenriede"
+                  points="-642.261902,447.969208 -642.466492,451.317078 -645.062927,449.814331"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Bewegen id_Trimm-Dich-Pfad-in-der-Eilenriede"
+                  points="-521.628296,560.513794 -520.562622,563.694031 -523.533081,563.274475"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-erleben id_Der-Deister-Wanderpass"
+                  points="-197.604263,863.287476 -199.067535,860.269409 -196.067749,860.306030"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-erleben id_Faltkarte-&quot;Wandern-im-Deister&quot;"
+                  points="-59.983040,612.962463 -61.673656,615.859314 -63.314899,613.348083"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-erleben id_Mit-Bus-und-Bahn-auf-den-Deisterkamm"
+                  points="-252.062042,582.605347 -249.421371,584.673401 -252.132065,585.958679"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-erleben id_Radfahren"
+                  points="-3.399181,808.383972 -6.750135,808.238647 -5.293497,805.615967"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Radfahren id_FAHRRADREGION-Hannover"
+                  points="207.945450,767.803040 205.688828,770.284485 204.606308,767.486633"
+                  stroke="none"/>
+        <polyline fill="#ff334c" fill-opacity="1.0"
+                  class="id_Naherholung id_Natur-verstehen"
+                  points="214.677216,207.697739 211.707596,209.257019 211.648026,206.257599"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-verstehen id_Erlebnispfade"
+                  points="320.314697,319.958252 317.645447,317.927216 320.337952,316.604218"
+                  stroke="none"/>
+        <polyline fill="#e57f19" fill-opacity="1.0"
+                  class="id_Natur-verstehen id_Naturlernorte"
+                  points="521.528748,42.111145 519.812134,44.992676 518.193604,42.466766"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Naturlernorte id_Kinderwald-Hannover"
+                  points="574.231079,161.421524 572.518066,158.537811 575.510254,158.320923"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Naturlernorte id_Schulbiologiezentrum-Hannover"
+                  points="690.245300,78.227303 686.891174,78.231895 688.229187,75.546776"
+                  stroke="none"/>
+        <polyline fill="#86ac24" fill-opacity="1.0"
+                  class="id_Naturlernorte id_Waldstation-Eilenriede"
+                  points="482.550537,-451.365967 484.542053,-448.667084 481.586365,-448.153412"
+                  stroke="none"/>
+        <polyline fill="#20c68a" fill-opacity="1.0"
+                  class="id_Waldstation-Eilenriede id_Aktuelles-Veranstaltungen"
+                  points="662.282532,-467.185730 659.066467,-466.233429 659.591125,-469.187225"
+                  stroke="none"/>
+        <polyline fill="#20c68a" fill-opacity="1.0"
+                  class="id_Waldstation-Eilenriede id_Anfahrt-und-Öffnungszeiten"
+                  points="298.446503,-458.426544 301.012787,-460.586212 301.714020,-457.669342"
+                  stroke="none"/>
+        <polyline fill="#20c68a" fill-opacity="1.0"
+                  class="id_Waldstation-Eilenriede id_Audioguide"
+                  points="334.782745,-327.873718 335.497101,-331.150879 337.833099,-329.268555"
+                  stroke="none"/>
+        <polyline fill="#20c68a" fill-opacity="1.0"
+                  class="id_Waldstation-Eilenriede id_Das-Wald-Hochhaus"
+                  points="438.923370,-674.833679 440.985870,-672.188660 438.044830,-671.596619"
+                  stroke="none"/>
+        <polyline fill="#41c049" fill-opacity="1.0"
+                  class="id_Waldstation-Eilenriede id_Die-Eilenriede"
+                  points="240.583145,-654.230591 243.913773,-653.834351 242.264572,-651.328369"
+                  stroke="none"/>
+        <polyline fill="#20c68a" fill-opacity="1.0"
+                  class="id_Waldstation-Eilenriede id_Freiwilliges-Ökologisches-Jahr"
+                  points="602.162415,-617.595581 600.957520,-614.465332 598.935303,-616.681274"
+                  stroke="none"/>
+        <polyline fill="#20c68a" fill-opacity="1.0"
+                  class="id_Waldstation-Eilenriede id_Führungen"
+                  points="602.889954,-343.067017 599.829407,-344.439178 602.151306,-346.338776"
+                  stroke="none"/>
+        <polyline fill="#20c68a" fill-opacity="1.0"
+                  class="id_Waldstation-Eilenriede id_Über-uns"
+                  points="467.623413,-310.887329 466.224854,-313.935913 469.223145,-313.835327"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff0066" r="46.0" cx="-148.94966"
+                class="id_Naherholung" cy="214.91904" stroke="#b20047"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ff6633" r="46.0" cx="-331.84576"
+                class="id_Gärten-genießen" cy="177.91269" stroke="#b24723"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ff6633" r="46.0" cx="-22.83129"
+                class="id_Infos,-Projekte,-Termine" cy="81.47134"
+                stroke="#b24723" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ff6633" r="46.0" cx="-436.8469"
+                class="id_Natur-entdecken" cy="-291.51968" stroke="#b24723"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-488.03662"
+                class="id_Deister" cy="-83.8914" stroke="#8e6b00"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-264.88626"
+                class="id_Die-Südliche-Leineaue" cy="-186.74146"
+                stroke="#8e6b00" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-641.41583"
+                class="id_Landschaftsräume" cy="-191.03616" stroke="#8e6b00"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-635.8178"
+                class="id_Moore" cy="-382.44037" stroke="#8e6b00"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-468.37686"
+                class="id_Seen" cy="-497.8456" stroke="#8e6b00"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-35.794235"
+                class="id_Wälder" cy="-624.67194" stroke="#8e6b00"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#41c049" r="46.0" cx="198.81612"
+                class="id_Die-Eilenriede" cy="-681.7172" stroke="#2d8633"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#41c049" r="46.0" cx="-105.506485"
+                class="id_Mecklenheider-Forst" cy="-452.37515" stroke="#2d8633"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#41c049" r="46.0" cx="-196.11751"
+                class="id_Seelhorster-Wald" cy="-737.06696" stroke="#2d8633"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#41c049" r="46.0" cx="473.98898"
+                class="id_Waldstation-Eilenriede" cy="-500.6275"
+                stroke="#2d8633" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ff6633" r="46.0" cx="-195.63098"
+                class="id_Natur-erleben" cy="701.61633" stroke="#b24723"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-540.0062"
+                class="id_Bewegen" cy="690.6261" stroke="#8e6b00"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#41c049" r="46.0" cx="-709.1529"
+                class="id_Fitness%C2%ADparcours-in-Hannover" cy="563.54407"
+                stroke="#2d8633" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00cccc" r="46.0" cx="-617.21594"
+                class="id_Fitnesswiese-am-Schmachteberg-in-der-Eilenriede"
+                cy="404.69452" stroke="#008e8e" stroke-opacity="1.0"
+                stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#41c049" r="46.0" cx="-514.6354"
+                class="id_Trimm-Dich-Pfad-in-der-Eilenriede" cy="511.0052"
+                stroke="#2d8633" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-198.2145"
+                class="id_Der-Deister-Wanderpass" cy="913.28375"
+                stroke="#8e6b00" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-18.129045"
+                class="id_Faltkarte-&quot;Wandern-im-Deister&quot;"
+                cy="585.6084" stroke="#8e6b00" stroke-opacity="1.0"
+                stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="-273.48416"
+                class="id_Mit-Bus-und-Bahn-auf-den-Deisterkamm" cy="537.4269"
+                stroke="#8e6b00" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="40.31137"
+                class="id_Radfahren" cy="832.66125" stroke="#8e6b00"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#41c049" r="46.0" cx="254.57689"
+                class="id_FAHRRADREGION-Hannover" cy="749.76117"
+                stroke="#2d8633" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ff6633" r="46.0" cx="264.66736"
+                class="id_Natur-verstehen" cy="206.70499" stroke="#b24723"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="342.3644"
+                class="id_Erlebnispfade" cy="364.83374" stroke="#8e6b00"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#cc9900" r="46.0" cx="563.62726"
+                class="id_Naturlernorte" cy="15.134918" stroke="#8e6b00"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#41c049" r="46.0" cx="577.8459"
+                class="id_Kinderwald-Hannover" cy="211.29068" stroke="#2d8633"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#41c049" r="46.0" cx="734.99725"
+                class="id_Schulbiologiezentrum-Hannover" cy="100.5267"
+                stroke="#2d8633" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00cccc" r="46.0" cx="711.51215"
+                class="id_Aktuelles-Veranstaltungen" cy="-458.44232"
+                stroke="#008e8e" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00cccc" r="46.0" cx="249.83159"
+                class="id_Anfahrt-und-Öffnungszeiten" cy="-446.73938"
+                stroke="#008e8e" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00cccc" r="46.0" cx="303.41034"
+                class="id_Audioguide" cy="-288.94083" stroke="#008e8e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00cccc" r="46.0" cx="429.05685"
+                class="id_Das-Wald-Hochhaus" cy="-723.8505" stroke="#008e8e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00cccc" r="46.0" cx="639.0953"
+                class="id_Freiwilliges-Ökologisches-Jahr" cy="-651.2996"
+                stroke="#008e8e" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00cccc" r="46.0" cx="634.55005"
+                class="id_Führungen" cy="-304.3677" stroke="#008e8e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00cccc" r="46.0" cx="465.9469"
+                class="id_Über-uns" cy="-260.91544" stroke="#008e8e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="17" x="-148.94966" y="218.85637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Naherholung">
+            Naherholung
+        </text>
+        <text font-size="17" x="-331.84576" y="181.90259" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gärten-genießen">
+            Gärten-genießen
+        </text>
+        <text font-size="17" x="-22.83129" y="85.46124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Infos,-Projekte,-Termine">
+            Infos,-Projekte,-Termine
+        </text>
+        <text font-size="17" x="-436.8469" y="-288.42764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Natur-entdecken">
+            Natur-entdecken
+        </text>
+        <text font-size="17" x="-488.03662" y="-80.79936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Deister">
+            Deister
+        </text>
+        <text font-size="17" x="-264.88626" y="-183.59409" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Die-Südliche-Leineaue">
+            Die-Südliche-Leineaue
+        </text>
+        <text font-size="17" x="-641.41583" y="-187.89156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Landschaftsräume">
+            Landschaftsräume
+        </text>
+        <text font-size="17" x="-635.8178" y="-379.34833" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moore">
+            Moore
+        </text>
+        <text font-size="17" x="-468.37686" y="-494.69824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Seen">
+            Seen
+        </text>
+        <text font-size="17" x="-35.794235" y="-621.56055" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wälder">
+            Wälder
+        </text>
+        <text font-size="17" x="198.81612" y="-678.6252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Die-Eilenriede">
+            Die-Eilenriede
+        </text>
+        <text font-size="17" x="-105.506485" y="-449.2831" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mecklenheider-Forst">
+            Mecklenheider-Forst
+        </text>
+        <text font-size="17" x="-196.11751" y="-733.91956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Seelhorster-Wald">
+            Seelhorster-Wald
+        </text>
+        <text font-size="17" x="473.98898" y="-497.53546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Waldstation-Eilenriede">
+            Waldstation-Eilenriede
+        </text>
+        <text font-size="17" x="-195.63098" y="704.7084" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Natur-erleben">
+            Natur-erleben
+        </text>
+        <text font-size="17" x="-540.0062" y="694.5634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bewegen">
+            Bewegen
+        </text>
+        <text font-size="17" x="-709.1529" y="567.4316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fitness%C2%ADparcours-in-Hannover">
+            Fitnessparcours
+        </text>
+        <text font-size="17" x="-617.21594" y="408.68445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Fitnesswiese-am-Schmachteberg-in-der-Eilenriede">
+            Fitnesswiese-am-Schmachteberg-in-der-Eilenriede
+        </text>
+        <text font-size="17" x="-514.6354" y="514.1498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Trimm-Dich-Pfad-in-der-Eilenriede">
+            Trimm-Dich-Pfad-in-der-Eilenriede
+        </text>
+        <text font-size="17" x="-198.2145" y="917.17126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Der-Deister-Wanderpass">
+            Der-Deister-Wanderpass
+        </text>
+        <text font-size="17" x="-18.129045" y="588.70044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Faltkarte-&quot;Wandern-im-Deister&quot;">
+            Faltkarte-&quot;Wandern-im-Deister&quot;
+        </text>
+        <text font-size="17" x="-273.48416" y="540.5715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Mit-Bus-und-Bahn-auf-den-Deisterkamm">
+            Mit-Bus-und-Bahn-auf-den-Deisterkamm
+        </text>
+        <text font-size="17" x="40.31137" y="835.80585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Radfahren">
+            Radfahren
+        </text>
+        <text font-size="17" x="254.57689" y="753.6985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_FAHRRADREGION-Hannover">
+            Fahrradregion
+        </text>
+        <text font-size="17" x="264.66736" y="209.79703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Natur-verstehen">
+            Natur-verstehen
+        </text>
+        <text font-size="17" x="342.3644" y="368.77386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Erlebnispfade">
+            Erlebnispfade
+        </text>
+        <text font-size="17" x="563.62726" y="18.22696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Naturlernorte">
+            Naturlernorte
+        </text>
+        <text font-size="17" x="577.8459" y="214.38272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kinderwald-Hannover">
+            Kinderwald
+        </text>
+        <text font-size="17" x="734.99725" y="104.51662" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Schulbiologiezentrum-Hannover">
+            Schulbiologiezentrum
+        </text>
+        <text font-size="17" x="711.51215" y="-454.50497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Aktuelles-Veranstaltungen">
+            Aktuelles-Veranstaltungen
+        </text>
+        <text font-size="17" x="249.83159" y="-442.18915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anfahrt-und-Öffnungszeiten">
+            Anfahrt-und-Öffnungszeiten
+        </text>
+        <text font-size="17" x="303.41034" y="-285.00348" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Audioguide">
+            Audioguide
+        </text>
+        <text font-size="17" x="429.05685" y="-720.7585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Das-Wald-Hochhaus">
+            Das-Wald-Hochhaus
+        </text>
+        <text font-size="17" x="639.0953" y="-646.7494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Freiwilliges-Ökologisches-Jahr">
+            Freiwilliges-Ökologisches-Jahr
+        </text>
+        <text font-size="17" x="634.55005" y="-300.411" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Führungen">
+            Führungen
+        </text>
+        <text font-size="17" x="465.9469" y="-257.20776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Über-uns">
+            Über-uns
+        </text>
+    </g>
+</svg>
